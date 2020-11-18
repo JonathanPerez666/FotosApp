@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FotosApp"
+    }
+  },
+  "defaultProject": "FotosApp",
+  "cli": {
+    "analytics": false
+  }
 }
